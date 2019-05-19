@@ -1,0 +1,11 @@
+.table-view .column-header .label {
+    -fx-alignment: center-left;
+}
+
+/*.table-view .table-column-cell {
+  -fx-border-width: 3;
+}*/
+
+/*.table-view {
+  -fx-table-cell-border-color: blue;
+}*/
